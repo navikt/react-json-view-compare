@@ -20,7 +20,7 @@ jobs:
   publish:
     name: Publish to package registry
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     permissions:
       contents: write
       packages: write
