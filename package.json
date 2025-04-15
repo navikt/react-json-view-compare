@@ -1,6 +1,6 @@
 {
   "name": "@navikt/react-json-view-compare",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "description": "React json compare view plugin, supports expansion and hiding.use react hooks.",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
