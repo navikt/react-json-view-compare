@@ -1,5 +1,5 @@
 import React from 'react';
-import { render } from 'react-dom';
+import ReactDOM from "react-dom/client";
 import JsonCompare from '../lib/index.js';
 import './style.css';
 
@@ -41,4 +41,4 @@ function App() {
     </div>
   );
 }
-render(App(), document.getElementById('root'));
+ReactDOM.createRoot(document.querySelector("#root")).render(App())
