@@ -1,5 +1,5 @@
 {
-  "name": "navikt-cloned-react-json-view-compare",
+  "name": "@navikt/react-json-view-compare",
   "version": "2.1.2",
   "description": "React json compare view plugin, supports expansion and hiding.use react hooks.",
   "publishConfig": {
