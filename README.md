@@ -1,3 +1,10 @@
+````text
+Original repository:
+https://github.com/5SSS/react-json-view-compare
+
+The original repository was cloned to enable support for React 19.
+````
+
 # react-json-view-compare
 
 React json compare view plugin, supports expansion and hiding. Uses react hooks.
